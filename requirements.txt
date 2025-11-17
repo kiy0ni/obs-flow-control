@@ -1,0 +1,4 @@
+flask
+obs-websocket-py
+python-dotenv
+waitress
